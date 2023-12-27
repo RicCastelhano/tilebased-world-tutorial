@@ -55,3 +55,10 @@ By the end of the tutorial, you should get a similar game level:
 You can find the game tiles for free in [Graveyard Platformer Tileset](https://www.gameart2d.com/free-graveyard-platformer-tileset.html)
 
 More free tiles in [GameArt2D](https://www.gameart2d.com/freebies.html)
+
+
+## Tiled
+
+[Tiled](https://www.mapeditor.org/) is a free and open source, easy to use, and flexible level editor.
+
+![Tiled](/assets/Tiled.png)
