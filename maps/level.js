@@ -1,3 +1,12 @@
+/**
+ * BiDimensional Array to draw the map
+ * Each number corresponds to a specific tile, eg 1 ==> Tile_1.png
+ * It is like a tile wall, we can easily see there is a drawing in it
+ * 
+ * 0 (zero) correspond to an empty space (without tiles)
+ * 
+ * This map was generated using "Tiled"
+ */
 const levelMap = [
     [ 9,  9,  9,  9, 13,  0,  0,  0,  0,  0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0],
@@ -9,6 +18,10 @@ const levelMap = [
     [ 5,  5,  6,  0,  1,  2,  7,  8,  5,  5,  5,  5,  6,  0]
 ];
 
+/**
+ * Additional objects with dimensions different from all the tiles.
+ * These objects will have specific positions in the game area.
+ */
 const levelObjects = {
     1: {imageSrc: 'Sign', x:30, y:164},
     2: {imageSrc: 'Crate', x:170, y:150},
