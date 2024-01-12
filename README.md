@@ -1,5 +1,7 @@
 # Tile-Based World Tutorial
 
+The blog post is [here](https://creativecode.ricardocastelhano.net/2023-12-27-tilebased-world/)
+
 By the end of the tutorial, you should get a similar game level:
 
 ![Tile_1](/assets/tilebased-world-cover.png)
